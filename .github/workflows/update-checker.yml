@@ -56,4 +56,4 @@ jobs:
       with:
         retain_days: 1
         keep_minimum_runs: 1
-        node-version: "16.x"
+        node-version: 16

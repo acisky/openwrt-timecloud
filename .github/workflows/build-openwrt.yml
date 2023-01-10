@@ -179,7 +179,7 @@ jobs:
       with:
         retain_days: 1
         keep_minimum_runs: 3
-        node-version: "16.x"
+        node-version: 16
 
     - name: Remove old Releases
       uses: dev-drprasad/delete-older-releases@v0.1.0
