@@ -1,5 +1,3 @@
-> 适配迅雷下载宝的定制固件
-
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
